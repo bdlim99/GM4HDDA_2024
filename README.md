@@ -6,6 +6,7 @@ The official repository for the homework assignments of the lecture \<Geometric 
 ### Table of Contents
 
 [Instructions for Settings](#instruction-for-settings)  
+[Homework 1](#homework-1)
 
 
 ### TA Contacts
@@ -59,3 +60,6 @@ To setup the environment except *pytorch* and *torchvision*, run the following s
 pip install -r requirements.txt
 ```
 Install PyTorch and torchvision from the following link: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/).
+
+## Homework 1
+Follow the instructions in the ``HW1-1.ipynb`` and ``HW1-2.ipynb`` file. After you complete and run the HW ipython files, upload them to eTL.
