@@ -13,7 +13,7 @@ The official repository for the homework assignments of the lecture \<Geometric 
 
 - Byeongdo Lim (bdlim@robotics.snu.ac.kr, *Head TA*)
 - Jungbin Lim (jblim97@robotics.snu.ac.kr)
-- Jongmin Kim (jmkin@robotics.snu.ac.kr)
+- Jongmin Kim (jmkim@robotics.snu.ac.kr)
 
 
 ## Instruction for Settings
