@@ -1,2 +1,10 @@
 # datasets
 MNIST/
+datasets/
+
+# cache
+*.pyc
+
+# models, results
+pretrained/
+interpolation_results/
