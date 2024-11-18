@@ -1,4 +1,4 @@
-import yaml
+# import yaml
 import numpy as np
 import torch
 import matplotlib.pyplot as plt
@@ -6,10 +6,10 @@ from matplotlib.patches import Ellipse, Rectangle, Polygon
 import math
 import random
 
-def save_yaml(filename, text):
-    """parse string as yaml then dump as a file"""
-    with open(filename, 'w') as f:
-        yaml.dump(yaml.safe_load(text), f, default_flow_style=False)
+# def save_yaml(filename, text):
+#     """parse string as yaml then dump as a file"""
+#     with open(filename, 'w') as f:
+#         yaml.dump(yaml.safe_load(text), f, default_flow_style=False)
 
 def label_to_color(label):
     

@@ -3,7 +3,7 @@ from models.dgcnn import DGCNN
 from models.modules import MLP, MLP_PointCloud
 import torch
 import os 
-from omegaconf import OmegaConf
+# from omegaconf import OmegaConf
 
 def get_model(cfg, *args, version=None, **kwargs):
     if 'model' in cfg:
