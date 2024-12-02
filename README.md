@@ -69,4 +69,7 @@ Follow the instructions in the ``HW3-1.ipynb`` and ``HW3-2.ipynb`` files. After 
 You need to set up a separate environment for HW3-2. Please follow the instructions carefully.
 
 ## Homework 4
-Follow the instructions in the ``HW4.ipynb`` files. After you complete and run the HW ipython files, upload them to eTL.
+Follow the instructions in the ``HW4.ipynb`` file. After you complete and run the HW ipython file, upload it to eTL.
+
+## Homework 5
+Follow the instructions in the ``HW5.ipynb`` file. After you complete and run the HW ipython file, upload it to eTL.
